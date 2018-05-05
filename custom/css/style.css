@@ -1,0 +1,16 @@
+body,html{
+	padding: 0;
+	margin: 0;
+	color: black;
+}
+img{
+	visibility: visible !important;
+    display: block !important;
+}
+img,canvas{
+	position: absolute;
+	top:0;
+	left:0;
+}
+canvas{
+}
